@@ -3,7 +3,7 @@
 ![LabImage](images/workflow1.PNG)
 ![LabImage](images/JavaWorkFlowCI-Results.PNG)
 ![LabImage](images/ServiceAccount.PNG)
-![LabImage](images/Google.yml pic.PNG)
+![LabImage](images/Google.ymlPic.PNG)
 ![LabImage](images/ChoosingDeploymentWorkFlow.PNG)
 ![LabImage](images/GAllWorkFlows.PNG)
 ![LabImage](images/GKEActions.PNG)
