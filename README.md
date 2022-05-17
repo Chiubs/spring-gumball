@@ -4,7 +4,11 @@
 ![LabImage](images/JavaWorkFlowCI-Results.PNG)
 ![LabImage](images/ServiceAccount.PNG)
 ![LabImage](images/Google.yml pic.PNG)
+![LabImage](images/ChoosingDeploymentWorkFlow.PNG)
+![LabImage](images/GAllWorkFlows.PNG)
 ![LabImage](images/GKEActions.PNG)
+![LabImage](images/ClusterPic.PNG)
+![LabImage](images/CreateIngress.PNG)
 ![LabImage](images/GKELBIngress.PNG)
 ![LabImage](images/GKEService.PNG)
 ![LabImage](images/GKEworkload.PNG)
@@ -14,6 +18,9 @@
 ![LabImage](images/BuildDeployPublishWorkFlowCD.PNG)
 ![LabImage](images/GKEGumball.PNG)
 ![LabImage](images/GKEGumballQuarter.PNG)
+
+
+
 
 
 
