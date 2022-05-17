@@ -5,7 +5,7 @@
 ![LabImage](images/ServiceAccount.PNG)
 ![LabImage](images/Google.ymlPic.PNG)
 ![LabImage](images/ChoosingDeploymentWorkFlow.PNG)
-![LabImage](images/GAllWorkFlows.PNG)
+![LabImage](images/AllWorkFlows.PNG)
 ![LabImage](images/GKEActions.PNG)
 ![LabImage](images/ClusterPic.PNG)
 ![LabImage](images/CreateIngress.PNG)
